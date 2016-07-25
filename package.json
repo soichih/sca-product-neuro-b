@@ -1,0 +1,16 @@
+{
+  "name": "sca-product-neuro-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "import.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soichih/sca-product-neuro-b.git"
+  },
+  "author": "Soichi Hayashi <hayashis@iu.edu>",
+  "license": "ISC"
+}
